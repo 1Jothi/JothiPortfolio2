@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/JothiPortfolio2/static/css/main.245c2ad8.css",
+    "main.js": "/JothiPortfolio2/static/js/main.2657d4da.js",
+    "static/js/787.eae7516e.chunk.js": "/JothiPortfolio2/static/js/787.eae7516e.chunk.js",
+    "static/media/FLUTTER Certificate .pdf": "/JothiPortfolio2/static/media/FLUTTER Certificate .0ef3ae5b300bf425784c.pdf",
+    "static/media/KOTLIN.pdf": "/JothiPortfolio2/static/media/KOTLIN.68d7e26801173313c98e.pdf",
+    "static/media/JavaFullstack.pdf": "/JothiPortfolio2/static/media/JavaFullstack.3e7228d8ece5b4199fae.pdf",
+    "static/media/Resume.pdf": "/JothiPortfolio2/static/media/Resume.3233eec294b3b6fac15b.pdf",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/JothiPortfolio2/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/RobotoSlab-Black.ttf": "/JothiPortfolio2/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/JothiPortfolio2/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/JothiPortfolio2/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/GildaDisplay-Regular.ttf": "/JothiPortfolio2/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/jo1.png": "/JothiPortfolio2/static/media/jo1.4a8b010ae1d65eb7a196.png",
+    "static/media/gotosite.webp": "/JothiPortfolio2/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/github.webp": "/JothiPortfolio2/static/media/github.ed1c06d925fff0b57e32.webp",
+    "index.html": "/JothiPortfolio2/index.html",
+    "main.245c2ad8.css.map": "/JothiPortfolio2/static/css/main.245c2ad8.css.map",
+    "main.2657d4da.js.map": "/JothiPortfolio2/static/js/main.2657d4da.js.map",
+    "787.eae7516e.chunk.js.map": "/JothiPortfolio2/static/js/787.eae7516e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.245c2ad8.css",
+    "static/js/main.2657d4da.js"
+  ]
+}
